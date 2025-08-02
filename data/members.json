@@ -176,5 +176,10 @@
     "name": "rosebyte",
     "feed": null,
     "url": "https://www.rosebyte.xyz/"
+  },
+    {
+    "name": "math2w",
+    "feed": null,
+    "url": "https://math2w.com/"
   }
 ]
